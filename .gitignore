@@ -1,0 +1,10 @@
+node_modules/
+dist/
+firmware/weather_station/secrets.h
+*.log
+
+.npm/
+.cache/
+.arduino15/
+.sudo_as_admin_successful
+weather-station-source.zip
